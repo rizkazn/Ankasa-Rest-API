@@ -16,7 +16,7 @@
 
 ## Back to Frontend
 
-<a href="https://github.com/Gustiana882/front-ticketing">https://github.com/Gustiana882/front-ticketing</a>
+<a href="https://github.com/Gustiana882/front-ticketing">https://github.com/rizkazn/front-ticketing</a>
 
 ## Clone the repository
 
