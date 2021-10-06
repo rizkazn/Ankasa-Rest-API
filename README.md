@@ -18,6 +18,16 @@
 
 <a href="https://github.com/Gustiana882/front-ticketing">https://github.com/rizkazn/front-ticketing</a>
 
+## Built with
+
+[![Express.js](https://img.shields.io/badge/Express.js-4.x-orange.svg?style=rounded-square)](https://expressjs.com/en/starter/installing.html)
+[![Node.js](https://img.shields.io/badge/Node.js-v.12.13-green.svg?style=rounded-square)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v.13.3-blue.svg?style=rounded-square)](https://www.postgresql.org/)
+[![Redis](https://img.shields.io/badge/Redis-v.6.2-red.svg?style=rounded-square)](https://redis.io/)
+
+## Description about project
+Angkasa is a flight ticket booking application project that was built and developed as a team. This application makes it easy for you to order airline tickets anywhere and anytime because it is based online. Built with React Js on the front, Node Js and Express Js on the back. The database used on this website is based on PostgreSQL which is operated using sequel. The features available on this website include flight search features, flight filters, and transit filters.
+
 ## Clone the repository
 
 ```bash
