@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<br/>
+<hr/>
 <p align="center">
   <a href="https://github.com/calvinrahmat/blanja.git">
     <img src="https://res.cloudinary.com/calvin-cloud/image/upload/v1631588597/Ankasa/Logo_Ankasa_cm4gp9.svg"  alt="LogoAnkasa">
