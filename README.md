@@ -16,10 +16,7 @@
   </a>
   
   <p align="center">
-    <br />
     <a href="https://github.com/calvinrahmat/back-ticketing.git"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
     <a href="http://ankasa.online/">View Demo</a>
   </p>
 </p>
