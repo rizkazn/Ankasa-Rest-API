@@ -25,7 +25,7 @@
 
 ## Back to Frontend
 
-<a href="https://github.com/Gustiana882/front-ticketing">https://github.com/rizkazn/front-ticketing</a>
+<a href="https://github.com/Gustiana882/front-ticketing">https://github.com/rizkazn/Ankasa-Front-End.git</a>
 
 ## Built with
 
@@ -41,7 +41,7 @@ Ankasa is a flight ticket booking application project that was built and develop
 
 ```bash
 
-  git clone https://github.com/Gustiana882/back-ticketing.git
+  git clone https://github.com/rizkazn/Ankasa-Front-End.git
   
 ```
 
