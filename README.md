@@ -25,7 +25,7 @@
 
 ## Back to Frontend
 
-<a href="https://github.com/Gustiana882/front-ticketing">https://github.com/rizkazn/Ankasa-Front-End.git</a>
+<a href="https://github.com/Gustiana882/front-ticketing">https://github.com/rizkazn/Ankasa-Front-End</a>
 
 ## Built with
 
